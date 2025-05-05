@@ -5,6 +5,11 @@ A lightweight native Windows GUI tool (written in C++) that enables or disables 
 ![screenshot](https://github.com/user-attachments/assets/c25e62cb-8ddb-464e-9798-ebf25f1124e7)
 
 
+GET RID OF THIS (works at least for now):
+![windows11_update_prompt](https://github.com/user-attachments/assets/83d3a2bb-322c-41f7-a1d1-3c8bfe20bc25)
+
+
+
 
 # Requirements
 
